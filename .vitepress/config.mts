@@ -77,15 +77,14 @@ export default defineConfig({
       {
         text: '开始',
         items: [
-          { text: 'React About', link: '/react' },
-          { text: 'React JSX', link: '/react/react-jsx' }
+          { text: '关于', link: '/about' },
         ]
       }, {
         text: 'React',
         items: [
           { text: 'React About', link: '/react' },
           { text: 'React JSX', link: '/react/react-jsx' },
-          { text: '脚手架', link: '/reƒact/react-cli' },
+          { text: '脚手架', link: '/react/react-cli' },
           { text: 'React组件化开发', link: '/react/react-component' }
         ]
       }

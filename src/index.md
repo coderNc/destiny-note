@@ -5,13 +5,13 @@ layout: home
 hero:
   name: "DestinyNotes"
   text: "宿命的笔记"
-  tagline: My great project tagline
+  tagline: 宿命的笔记
   actions:
     - theme: brand
-      text: Get Start
-      link: /react
+      text: 开始
+      link: /about
     - theme: alt
-      text: React Docs
+      text: React笔记
       link: /react
   image: { src: '/logo.svg', width: 184, height: 184 }
 
